@@ -9,6 +9,8 @@ A passionate Mobile Application Developer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-pande-402849266/)
 - ⚡ Fun fact: I enjoy learning new technologies and improving my coding skills
 
+**Note:** My main GitHub ID has been flagged, so this is my temporary GitHub profile.
+
 ### Languages and Tools:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
